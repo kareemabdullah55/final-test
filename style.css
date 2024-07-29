@@ -81,9 +81,6 @@ h3{
     font-size: 0.87rem;
     
 }
-li{
-    font-size: 20px;
-}
 
 small{
     font-size: 0.76rem;
@@ -157,7 +154,7 @@ aside .sidebar{
     background-color: var(--color-white);
     box-shadow: var(--box-shadow);
     border-radius: 15px;
-    height: 100vh;
+    height: 88vh;
     position: relative;
     top: 1.5rem;
     transition: all 0.3s ease;
